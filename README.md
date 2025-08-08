@@ -1,4 +1,4 @@
-v<h2 align="center">Hi 👋, I'm Mohd Sha — A Passionate Web Developer from India</h2>
+v<h2 align="center">Hi 👋, I'm Mohd Shami — A Passionate Web Developer from India</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F76D6D&width=435&lines=Full+Stack+Web+Developer;BTech+Computer+Science+Student;Always+Learning+🚀" />
@@ -13,7 +13,7 @@ v<h2 align="center">Hi 👋, I'm Mohd Sha — A Passionate Web Developer from In
 - 🌱 Currently learning: **MERN Stack | Cloud (AWS)**
 - 🛠️ Building: Scalable web apps using **MongoDB | Express | React | Node.js**
 - 💬 Ask me about: **JavaScript, React, Git, APIs**
-- 📧 Reach me: `mohdsha007@gmail.com`
+- 📧 Reach me: `mohdsha074@gmail.com`
 - 🎯 2025 Goal: Contribute to open source & land a dev role
 
 ---
@@ -64,7 +64,7 @@ v<h2 align="center">Hi 👋, I'm Mohd Sha — A Passionate Web Developer from In
 
 ### 📬 Connect with Me
 <div align="left">
-  <a href="https://www.instagram.com/your_instagram_here" target="_blank">
+  <a href="https://www.instagram.com/shemileyy" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
   </a>
   <a href="mailto:mohdsha007@gmail.com" target="_blank">
